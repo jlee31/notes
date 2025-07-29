@@ -54,3 +54,33 @@
 - To alter colours, you can apply **functions to map RGB values** to new RGB values.
 
 
+# Additional from Chat:
+# Colour Theory for Computer Vision
+
+## 1. Colour Spaces and Models
+- **RGB:** Additive, used for screens and cameras.
+- **HSV / HSL:** Separates Hue (colour) from Saturation (purity) and Value/Lightness (brightness). Useful for segmentation.
+- **CMYK:** Subtractive, mainly for printing.
+- **Lab (CIELAB):** Human vision based; separates luminance (L) and chromaticity (a, b). Good for colour comparison.
+- **YUV / YCbCr:** Separates luminance from chrominance. Used in video compression.
+
+## 2. Colour Space Conversion
+- Essential to convert between spaces (e.g., RGB → HSV, RGB → Lab) for feature extraction and processing.
+
+## 3. Perception-Based Concepts
+- **Hue, Saturation, Brightness:** Reflect human colour perception better than raw RGB.
+- **Complementary Colours:** Used for contrast enhancement.
+- **Colour Constancy:** Adjusting for lighting changes (e.g., white balancing).
+
+## 4. Colour Quantization
+- Reducing colour palette size for compression and segmentation.
+
+## 5. Colour Histograms & Features
+- Represent colour distributions; used in object recognition and image retrieval.
+
+## 6. Illumination and Shadows
+- Handle lighting variations to improve robustness.
+
+## Bonus: Human Vision vs Sensors
+- Different animals perceive colours differently.
+- Multispectral/hyperspectral imaging captures beyond RGB.
