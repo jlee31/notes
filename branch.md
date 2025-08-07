@@ -23,3 +23,7 @@ git branch -d practice-branch
 # (Optional) Delete the practice branch from the remote repository
 git push origin --delete practice-branch
 ```
+
+what is set upstream? it is the same as -u
+sets the default remote branch as the current local branch
+so you can do git push without setting the branch name
