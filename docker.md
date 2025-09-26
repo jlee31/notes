@@ -30,3 +30,20 @@ docker build -t indexer .
 docker run --name NAME-CONTAINER NAME
 ```
 
+3) Docker Compose - utility that allows you to define and run multiple contianers
+- you can use a YAML file with a docker file 
+- you can use docker compose to setup a load balancer 
+
+``` 
+docker compose up --build
+```
+
+4) CI/CD - automating the development process
+
+![alt text](image-4.png)
+
+
+5) games with docker
+- you can use docker to setup servers for games
+- you use x11 forwarded to redirect the graphics to your computer 
+- you have to download the x11 server
