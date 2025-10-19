@@ -19,7 +19,7 @@ This process transforms the image in controlled ways depending on the kernel val
 - This essentially computes the **average** of the surrounding pixels.
 - It smooths the image by reducing sharp edges and noise.
 - Example kernel for a 3x3 mean blur:
-![mean blur demonstration](image.png)
+  ![mean blur demonstration](image.png)
 
 ### Gaussian Blur
 
@@ -28,4 +28,4 @@ This process transforms the image in controlled ways depending on the kernel val
 - This results in a smoother and more natural blur compared to the mean blur.
 - It preserves edges better and reduces noise while maintaining detail.
 - The weights are determined by the formula for the Gaussian function:
-![gaussian blur demonstration](image-1.png)
+  ![gaussian blur demonstration](image-1.png)
