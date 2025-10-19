@@ -15,7 +15,7 @@
 - math239, cs245, cs246
 - leetcode
 
-- learn / prepare / gain some knowledge in [learning-resources/advancedtopics.md]
+- learn / prepare / gain some knowledge in [some advanced topics](./learning-resources/todo.md)
 
 ### MAY - AUG 2026 (2B)
 
