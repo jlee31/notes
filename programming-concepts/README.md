@@ -15,5 +15,3 @@ This folder contains notes about fundamental programming concepts, algorithms, a
 - XOR operations and their applications
 - Algorithm optimization techniques
 - Multi-threading vs single-threading
-
-Essential for understanding low-level programming concepts and concurrent programming fundamentals.

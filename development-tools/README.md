@@ -16,4 +16,3 @@ This folder contains notes about development tools, containerization, and DevOps
 - Practical use cases and applications
 - X11 forwarding for graphics applications
 
-Essential for developers working with containerized applications or wanting to understand modern deployment practices.

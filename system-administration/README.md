@@ -15,5 +15,3 @@ This folder contains notes about Linux system administration, command-line tools
 - Text-based user interfaces (TUI) like htop, midnight commander, tmux
 - Windows Subsystem for Linux (WSL) comparison
 - System monitoring and logging (journalctl, systemctl)
-
-Perfect for developers transitioning to Linux or wanting to deepen their system administration skills.

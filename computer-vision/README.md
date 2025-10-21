@@ -16,5 +16,3 @@ This folder contains notes about computer vision concepts, image processing tech
 - Color theory and perception
 - Image segmentation techniques
 - Mathematical foundations of computer vision
-
-Essential for anyone working with image processing, computer vision projects, or understanding how digital images are manipulated algorithmically.
