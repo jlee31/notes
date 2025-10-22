@@ -48,11 +48,11 @@ Core requirement - Streaming video
 
 Diagramming the approaches
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 API Design
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 - we GET videoframes
 - we POST comments
@@ -61,7 +61,7 @@ Database Design
 
 - we want to return frames, comments and other data
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 - so far nothing here is concrete, just rough ideas
 
@@ -74,7 +74,7 @@ Network Protocols
 - TCP Protocol: Reliable Protocol
 - UDP Protocol: Real time efficient protocol
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 Choosing a Datastore
 
@@ -82,7 +82,7 @@ Choosing a Datastore
 
 - HDFS or Amazon S3 are good ways to store data. It is cheap, easy to query and can store large files
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 Uploading Raw Video Footage
 
@@ -93,7 +93,7 @@ Uploading Raw Video Footage
 
 Map Reduce for Video Transformation
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
 WebRTC vs. MPEG DASH vs. HLS
 
@@ -104,7 +104,7 @@ WebRTC vs. MPEG DASH vs. HLS
 
 - on the server, we can have some state, like keeping the last 10 minutes in the server (saving time and bandwidth)
 
-![alt text](image-6.png)
+![alt text](images/image-6.png)
 
 Content Delivery Networks
 
@@ -113,7 +113,7 @@ Content Delivery Networks
 
 High-Level Summary
 
-![alt text](image-7.png)
+![alt text](images/image-7.png)
 
 1) Defined the requirements as abstract concepts (objects)
 2) Objects are maniputed and queried using API's on the server
