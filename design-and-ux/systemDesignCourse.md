@@ -126,16 +126,103 @@ High-Level Summary
 
 Introduction to Low-Level Design
 
-Video Player Design
+Goal:
 
-Engineering requirements
+- Design a scalable, memory-efficient, fault-tolerant video player system capable of handling various user actions like play, pause, seek, buffering, and streaming — while managing APIs, user behaviour, memory, and system performance.
 
-Use case UML diagram
+Key Actions: 
+- Play / Pause video
+- Seek forward/backward
+- Adjust volume / mute
+- Toggle full-screen
+- Select video quality
+- Enable subtitles
+- Buffer video (background operation)
+- Load next video (autoplay / playlist)
+- Download / offline mode (optional)
 
-Class UML Diagram
+System Design = Consider
+1) Memory Optimizations - cache video segments and decoding frames just-in-time
+2) User Behaviour - preloading next segments based on seek patterns 
+3) API Calling - async API calls for loading metadata, retry logic 
+4) Context Switching - using coroutines / lightweight threads to manage UI + streaming + decoding
+5) CI/CD Pipeline - unit tests for state transitions (play, start, stop), or integratin tests for api/bufferying
+6) Concurrency / Fault Tolerance / Latency - for network failures or UI crashes
 
-Sequence UML Diagram
+Low-Level Design Concepts
 
-Coding the Server
+States: Idle, Playing, Paused, Buffering, Ended, Error
 
-Resources for System Design
+Modules:
+
+1) VideoPlayerController: Handles state and user commands
+2) Decoder: Decodes frames from video
+3) BufferManager: Manages preloaded video data
+4) Renderer: Renders frames to screen
+5) NetworkManager: Fetches video segments via API
+
+```
+
+// Core components of the video player system
+
+Class: VideoPlayerController
+- state: PlayerState              // Current playback state
+- play()
+- pause()
+- seek(time: float)
+- stop()
+
+Class: BufferManager
+- bufferQueue: Queue<VideoSegment>   // Stores upcoming segments
+- fetchSegment(startTime: float): void
+
+Class: NetworkManager
+- fetchVideoSegment(url: string): VideoSegment
+- fetchSubtitles(): SubtitleData
+- retryPolicy(): void
+
+Class: Decoder
+- decodeFrame(segment: VideoSegment): Frame
+- reset(): void
+
+Class: Renderer
+- render(frame: Frame): void
+
+Enum: PlayerState
+- Idle
+- Playing
+- Paused
+- Buffering
+- Ended
+- Error
+
+```
+```
+User -> VideoPlayerController: play()
+VideoPlayerController -> BufferManager: fetchSegment(currentTime)
+BufferManager -> NetworkManager: fetchVideoSegment()
+NetworkManager -> BufferManager: return VideoSegment
+BufferManager -> Decoder: decodeFrame(segment)
+Decoder -> Renderer: render(frame)
+Renderer -> Screen: display(frame)
+```
+
+```
+[Idle] -------- play() --------> [Buffering]
+[Buffering] --- dataReady() ---> [Playing]
+[Playing] ----- pause() -------> [Paused]
+[Paused] ------ play() --------> [Playing]
+[Playing] ----- endOfVideo() --> [Ended]
+[Any State] --- errorOccurred() -> [Error]
+```
+
+Summary
+
+A robust video player must:
+
+1) Efficiently manage memory and system resources
+2) Handle unpredictable user behavior (e.g., frequent seeks)
+3) Ensure smooth playback with low latency and fault tolerance
+4) Maintain clean architecture to support CI/CD and modular growth
+
+Low-level design = clear object responsibilities, tight memory/code management, and performance-aware implementation.
