@@ -38,9 +38,16 @@ has a move() method and position and color variables
 - has four main principles: encapsulation, abstraction, inheritance, polymorphism
 
 ### Encapsulation
-Getters and setters
 
 - a way to bundle data with methods that can operate on that data within a class
+- members of other classes can interact with the attributes of another object through its methods
+- methodes are the functions defined within the class
+- Getters (retrieve information) and setters (allows values to be validated)
+- the setting method allows both attributes to be changed as they should, rather than requiring you to individually change them
+- you may sometimes want some attributes to be only "read only" from the outside
+- so you would define a getter method but not a setter method : ie the variable could only be referenced, not changed
+- it allows information hiding - so external classes would not directly edit an object's attributes
+- each piece should not have access to or rely on the inner workings of other sections of code
 
 ### Abstraction
 We care about Interface. Not the implementation behind the hood.
