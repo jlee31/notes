@@ -49,6 +49,8 @@ has a move() method and position and color variables
 - it allows information hiding - so external classes would not directly edit an object's attributes
 - each piece should not have access to or rely on the inner workings of other sections of code
 
+Information Hiding / Keeping Data hidden from external classes - helps keep control of your program and prevent it from being too complicated
+
 ### Abstraction
 We care about Interface. Not the implementation behind the hood.
 
