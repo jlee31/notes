@@ -3,7 +3,7 @@
 single threaded process - one thread executes all the sequence of operations
 multi threaded process - joint effort of all threads will result in the execution of the sequence of operations
 
-![Thread Diagram](../images/image-2.png)
+![Thread Diagram](images/image-2.png)
 
 program - relation between a class and an object / an interface and its implementation /
 

@@ -4,7 +4,7 @@ This folder contains notes about Linux system administration, command-line tools
 
 ## Files in this folder:
 
-- **`linuxNotes.md`** - Comprehensive Linux learning guide covering essential commands, filesystem hierarchy, package management, system processes, TUI applications, and WSL
+- **`linux-notes.md`** - Comprehensive Linux learning guide covering essential commands, filesystem hierarchy, package management, system processes, TUI applications, and WSL
 
 ## Topics Covered:
 

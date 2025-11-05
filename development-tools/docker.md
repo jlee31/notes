@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=pBPRr9fOLBQ&list=PLUHtiHAczBHeFsBE0cPhMzWYzo6FKH
 - easier to run a docker environment rather than a virtual environment
 - allows you to not have to install one million different packages
 
-![alt text](../images/image-3.png)
+![alt text](images/image-3.png)
 
 ```
 docker build -t indexer .
@@ -42,7 +42,7 @@ docker compose up --build
 
 4. CI/CD - automating the development process
 
-![alt text](../images/image-4.png)
+![alt text](images/image-4.png)
 
 5. games with docker
 

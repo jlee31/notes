@@ -4,7 +4,7 @@ This folder contains notes about Python development practices, environment manag
 
 ## Files in this folder:
 
-- **`vitEnvPy.md`** - Complete guide to Python virtual environments including creation, activation, dependency management, and requirements.txt files
+- **`vit-env-py.md`** - Complete guide to Python virtual environments including creation, activation, dependency management, and requirements.txt files
 
 ## Topics Covered:
 

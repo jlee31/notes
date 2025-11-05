@@ -5,7 +5,7 @@ This folder contains notes about fundamental programming concepts, algorithms, a
 ## Files in this folder:
 
 - **`threading.md`** - Introduction to threading concepts including single-threaded vs multi-threaded processes, CPU cores, and parallel execution
-- **`whatisXOR.md`** - XOR (exclusive OR) logic explanation with bitwise operations and practical applications like value swapping
+- **`what-is-xor.md`** - XOR (exclusive OR) logic explanation with bitwise operations and practical applications like value swapping
 
 ## Topics Covered:
 

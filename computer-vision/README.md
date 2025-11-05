@@ -6,7 +6,7 @@ This folder contains notes about computer vision concepts, image processing tech
 
 - **`blurring.md`** - Mathematical foundations of image blurring including kernel convolution, mean blur, and Gaussian blur with visual examples
 - **`colours.md`** - Comprehensive color theory for computer vision covering RGB, HSV, color spaces, complementary colors, and color perception
-- **`imageSegmentation.md`** - Introduction to image segmentation as a computer vision technique for partitioning digital images
+- **`image-segmentation.md`** - Introduction to image segmentation as a computer vision technique for partitioning digital images
 
 ## Topics Covered:
 
