@@ -56,7 +56,7 @@ ex. we tell the clients a minimum level of service that we are committed to prov
 - systems can only have two of the three
 - its about findinf the best solution for our specific use-case
 
-![alt text](image-1.png)
+![alt text](images/concepts-video/image-1.png)
 
 reliability
 - ensuring systems work consistenly and constantly
@@ -199,8 +199,150 @@ Rate Limiter
 
 ### Caching and CDNs
 
+Cacheing
+- used to speedup and increase efficiency in systems
+- it is when you store a copy of data in a temporary storage (cache)
+
+1) browser caching
+- storing data within the computerl ocally
+- so when reloading a site, it can open from cache instead of sending a request from a server
+- cache hit: when data looked for is in request is in the cache 
+- cache miss: when data looked for is in request is not in the cache
+- cache ratio = cache hits / cache hits + cache misses
+
+2) server caching
+- holding data within caches in the server so that you don't have to make computationally large requests
+- write-back cache
+- what happens if cache is full? : there are eviction policies to remove things 
+- LRU: least recently used
+- FIFO: First in First Out
+- LFU: Least Frequently Used 
+
+3) Database caching 
+- queries within the database so database queries are faster 
+- if stored in cache, return from cache, else check in database
+ 
+4) CDNs 
+- network of servers that are located in different places around the world
+- requests are checked by the nearest CDN, if not, it will send a request to the host (pulled-based)
+- pushed-based > where data in the host gets pushed onto the cdns
+- cdns are better for static assets
+- good for high availability and performance
+- it can not serve dynamic content or real time processing
+
+cdn vs caching
+
+cdn:
+1) reduced latency
+2) high availability
+3) improved security
+
+caching:
+1) reduced latency
+2) lowered server load
+3) improved ux
+
 ### Proxy Servers (Forward/Reverse Proxies)
+
+- middleware between a client and server
+- can provide caching resources, anonymizing requests and load balancing
+
+Types
+
+- **Forward Proxy** – A server that sits between a client and the internet, forwarding client requests to external servers. Used for filtering, caching, or hiding a user’s IP address from the sites they visit.  
+
+- **Reverse Proxy** – A server that sits between the internet and one or more backend servers, forwarding incoming requests to the appropriate server. Used for load balancing, caching, and protecting internal servers.  
+
+- **Open Proxy** – A proxy that is accessible to anyone on the internet. Used (often insecurely) to hide IP addresses or bypass restrictions, but can be risky and abused for malicious activity.  
+
+- **Transparent Proxy** – A proxy that intercepts requests without modifying them and without requiring client configuration. Used by ISPs or networks for caching or monitoring traffic.  
+
+- **Anonymous Proxy** – A proxy that hides the client’s IP address but identifies itself as a proxy. Used to maintain some privacy while browsing.  
+
+- **Distorting Proxy** – A proxy that hides the client’s IP and sends a fake one to the server while identifying itself as a proxy. Used to mask location and identity with deception.  
+
+- **High Anonymity Proxy** – A proxy that completely hides the fact that a proxy is being used and does not reveal the client’s IP. Used for maximum privacy and anonymity online.  
 
 ### Load Balancers
 
+- distribute traffic to different servers so that applications are faster
+
+round robin
+- simplest form
+- traffic is distributed evenly by one traffic to one server then one to another
+
+least connection
+- directs traffic to server with least connections
+
+least response time
+- chossing the algorithm with the fewest connetions and quickest response times
+
+ip hash
+- determines which server should connect based on the IP
+
+weighted algorithms
+- weights are assigned to requests and based on the weights the server would take the different requests
+
+geographical algorithms
+- sends request to closest server
+
+consistent hashing:
+- uses a hash function to distribute data across different nodes
+
+- there are different hardware load balancers, software load balancers and cloud-based load balancers
+
+what happens if the load balancer fails?
+- redundancy - adding another load balancer so if one fails then another can take over
+- health checks & monitoring - to check load balancers to ensure problems don't occur
+- auto-scaling and self-healing - detecting faulty load balancers and create new ones
+- DNS failover - reroute traffic to a different load balancer
+
 ### Databases (Sharding, Replication, ACID, Vertical & Horizontal Scaling)
+
+types of databases
+
+1) relational
+- postgres, mysql, sqlite
+
+Follows ACID
+
+- A : automicity - all or nothing
+- C : consistency - db should be consistent
+- I : isolation  -  transactions should be independent
+- D : durability - data stays
+
+2) noSQL - does not have consistency
+- mongodb, kassandra, redis
+- could use key-value pairs
+- graph based 
+- no schemes
+
+3) in-memory
+- fast
+- everything is in memory
+- used mainly for caching and session storage
+
+scaling
+1) vertical
+- increasing CPI, adding more ram, storage or improving the network
+- there is a maximum limit to the resources you can add 
+
+2) horizontal 
+- adding more machines
+
+database sharding 
+- putting shards of data into different places
+- ranged-basd sharding: based on the range of a given key
+- directory-based sharding: lookup service to direct traffic to the database
+- geographical sharding: based on geographic location
+
+replication 
+- keeping copies of data on multiple servers
+- master databae with several read slave db
+- multiple master database
+
+databse performance
+- caching
+- indexing (making indexes for frequently accessed) 
+- query optimization
+
