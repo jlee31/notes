@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=F2FmTdLtb_4
 - Data is stored with external storage servers on a different server connected by a different network
 - Logging and Monitoring systems are used to log and analyze data
 
-![alt text](image.png)
+![alt text](images/concepts-video/image.png)
 
 ### Design Requirements (CAP Theorem, Throughput, Latency, SLOs and SLAs)
 
