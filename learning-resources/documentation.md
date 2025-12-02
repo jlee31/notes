@@ -8,8 +8,13 @@
 - the more time you spend in the documentation, the better of a developer that you will be
 - search up keywords
 - the better you get reading different documentation, the easier it is to find the things you want
-- 
 
+steps:
+1) identify the data type / structure you are working with
+2) identify the goal you have and align it with a particular function
+3) search the docs to see what you are looking for in this case
+
+- the point of the documentation is to give you what the code looks like for you to use 
 
 --------
 
