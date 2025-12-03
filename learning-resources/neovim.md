@@ -20,3 +20,16 @@ alias vim='nvim' -> use neovim alias
 
 -----------------------------------------------------------
 
+1) start with ide and learn vim motions
+2) use a preconfigured neovim distribution if you are good at using neovim first
+3) stating off: use kickstarter.vim (A launch point for your personal vim configuration)
+4) sufficient motivation is what you truly need to get anything
+
+why not just use vscode?: getting closer to understanding how your environment works will just expand your mind 
+
+1) learn basics with vscode + vim addition
+2) use vanilla neovim
+3) build own setup with neovim and plugins
+4) try lazyvim -> even the default configuration is pretty good
+
+-------------------------------------------------------
