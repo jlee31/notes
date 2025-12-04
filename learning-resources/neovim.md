@@ -55,4 +55,53 @@ why not just use vscode?: getting closer to understanding how your environment w
 :help lua guide
 ```
 
+-------------------------------------------------------
+
+https://www.youtube.com/watch?v=htcrQXu8V4M
+
+simple commands
+```
+i - insert mode - neovim acts like a text editor
+
+esc > :q - quit
+
+esc > :w PATH/filename > esc > :q
+
+nvim FILE - to open file
+
+esc > :wq - write and quit
+
+```
+
+neovim vs vim
+- default config file on neovim is different
+
+check if you have a .config file, if not you can make one
+```
+mkdir -p ~/.config/vim
+```
+
+using neovim to create its own config file
+```
+nvim ~/.config/nvim/init.vim
+```
+
+add config 
+```
+set number # adds line numbers
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
