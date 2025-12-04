@@ -2,11 +2,21 @@
 
 experience means everything, so why not expand my horizons
 
-https://www.youtube.com/watch?v=m8C0Cq9Uv9o
+----------------------------------------------------------
+
+## Useful Links
+
+https://neovim.io/doc/ (Neovim Docs)
+
+https://www.youtube.com/watch?v=m8C0Cq9Uv9o (Beginner guide to kickstart/neovim)
 
 https://www.youtube.com/watch?v=w7i4amO_zaE
 
-https://www.moolenaar.net/habits.html
+https://www.moolenaar.net/habits.html 
+
+https://www.youtube.com/@teej_dv (TJ Defries is one of neovims core contributors so his videos are pretty good for learning neovim)
+
+https://learnxinyminutes.com/lua/ (learn lua in y minutes)
 
 -----------------------------------------------------------
 stages of neovim
@@ -33,3 +43,16 @@ why not just use vscode?: getting closer to understanding how your environment w
 4) try lazyvim -> even the default configuration is pretty good
 
 -------------------------------------------------------
+
+### What is Kickstart
+
+- it is not a distribution
+- kickstart is a starting point for your own neovim configuration
+- you should know some lua before doing neovim
+
+```
+:Tutor
+:help lua guide
+```
+
+
