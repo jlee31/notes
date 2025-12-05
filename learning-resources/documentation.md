@@ -28,6 +28,15 @@ https://www.reddit.com/r/learnprogramming/comments/1hdhi9j/tutorials_vs_document
 https://www.reddit.com/r/learnprogramming/comments/1gb9zpb/how_hard_is_it_to_learn_through_documentation/
 https://www.reddit.com/r/learnprogramming/comments/1eyc544/how_did_you_start_understanding_documentation/
 
+Notes of Said Posts:
+
+- an important thing about the docs is that you get your own searching feature in your brain when looking up things, you have to read the docs for a while so you know when ai is feeding you slop or not
+- documentation > google > ai
+- docs for learning, ai for fixing syntax??, maybe not for fixing issues though
+- 
+
+
+
 --------
 
 ### blog post : https://learncodethehardway.com/blog/25-how-to-read-programmer-documentation/
