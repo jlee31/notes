@@ -33,7 +33,10 @@ Notes of Said Posts:
 - an important thing about the docs is that you get your own searching feature in your brain when looking up things, you have to read the docs for a while so you know when ai is feeding you slop or not
 - documentation > google > ai
 - docs for learning, ai for fixing syntax??, maybe not for fixing issues though
-- 
+- AI can help augment productivity, but shouldn’t completely replace your critical thinking in designing and developing software.
+- If you could not do it yourself, dont ask AI to do it for you, but maybe ask AI where to find the information to fix the problem instead?
+"Hey, am struggling with building a makefile, could you give me 5 sources where to learn the correct syntax? Alao, what are some of the best books about it? Whats the most common error people have while trying to make their own?"
+Stuff like that, AI can still save you time without giving you the answer and stealing the learning opportunities.
 
 
 
