@@ -39,6 +39,15 @@ Notes of Said Posts:
 Stuff like that, AI can still save you time without giving you the answer and stealing the learning opportunities.
 
 
+Yeah, this is super common and honestly you're already aware of it which is half the battle. Here's what actually works: set hard rules for yourself, like no AI for the first 30 minutes of being stuck, then you can use it to check your approach or get a hint rather than the full solution. The key difference is asking "why doesn't this work" instead of "write this for me".
+
+Also try coding in an environment where you can't easily access AI, like offline or on your phone without it nearby. Sounds silly but friction helps a lot at 16 when willpower is still developing.
+
+The frustration you're feeling when coding without AI is actually a good sign, that's where learning happens. Push through it for like 10 minutes before you even think about asking for help. You'll be surprised how often you figure it out.
+
+One more thing: use AI to explain concepts or debug your own code after you've attempted it, not to write it from scratch. There's a huge difference between "why is my loop not working" and "write me a loop". The first teaches you, the second doesn't.
+
+You're already thinking about this at 16 which puts you ahead of a lot of people who just coast. Stick with it and the dependency will fade once you realize you actually can solve these things yourself.
 
 --------
 
