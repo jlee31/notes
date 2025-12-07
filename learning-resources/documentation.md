@@ -52,5 +52,3 @@ You're already thinking about this at 16 which puts you ahead of a lot of people
 --------
 
 ### blog post : https://learncodethehardway.com/blog/25-how-to-read-programmer-documentation/
-
-
