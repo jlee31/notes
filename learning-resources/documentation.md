@@ -52,3 +52,62 @@ You're already thinking about this at 16 which puts you ahead of a lot of people
 --------
 
 ### blog post : https://learncodethehardway.com/blog/25-how-to-read-programmer-documentation/
+
+- "the gestalt" > the gestalt is how all the parts of a pointing fit together to create an experience
+- in relation to programming, the pieces of a library or something are really amazing, but programmers are really bad at putting those pieces together
+- reading documentation requires active reading
+- it means you have to type as you read, change the code to find more, and apply what you learn to your own problems to learn how to use what you learn
+- the goal is to find the gestalt that the programmers ignored
+
+##### step 1 - find the docs
+1) ensure you found the right documentation (the latest one)
+2) is it a guide or API description? you want to start at the guide
+3) is there a cookbook or a guide with examples
+4) what are the most interesting topics to You
+
+##### step 2 - determine your strategy
+1) you can find other peoples code
+2) you can make a small project to try it
+
+with pandas, you can start with the cookbook or how-to-document as a guide to dive developer
+try to make use of the api references
+
+##### step 3 - code first, docs second
+start with the code, then read about it. it is good because you can experience the code, which helps with understanding
+
+looking at the pandas docs
+stuff like
+
+```
+Customarily, we import as follows.
+
+Creating a Series by passing a list of values, letting
+pandas create a default RangeIndex.
+
+Creating a DataFrame by passing a NumPy array with a
+datetime index using date_range() and labeled columns:
+```
+make no sense, but if you try the code, it helps fill gaps in your understanding
+
+##### step 4: break or change the code
+1 big issue for beginners is being able to decipher the convoluted error messages > the best solution is to keep yourself in that many errors on purpose so that you can study it
+2 another thing you can do is ask if you can do something different and try it > trying different combinations of stuff of what you learned
+
+##### step 5: take notes
+
+take notes and snippets and document what you learned
+keep **links**  of your data to help you remember when you read something
+
+##### step 6: use it on your own
+you want to be someone who can use the language to express your own ideas > so once you have enough understanding you switch to the api references > you dont want to passively read docs > copy an example from the docs then modify it > after tutorials you want details like function signatures, parameters, edge cases
+
+##### step 7: write about what you learned
+
+author: "programming forces me to structure my understanding of how something works into logical steps and structures. after i turn a process or idea into code I understand how it could actually work"
+
+i think this point relates to richard feynmans point of like if you can explain something then you actually understand it
+
+ensure you can explain the stuff and write about the stuff you learned - that will help us in the long run
+
+##### step 8: find the gestalt
+make sure we can summarize the project
