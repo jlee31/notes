@@ -115,4 +115,5 @@ what would be the right tool for a certain task
 ig thats more of an architecture/technical issue but backend is more of a pragmatic concept
 
 order -> server architecture > concurrency (async sync) > security > http+api > databases > auth > caching > cloud
- 
+
+read docs, code, refer to notes, make connections
