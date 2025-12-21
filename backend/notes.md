@@ -95,3 +95,25 @@ Use a real production server (gunicorn/uvicorn workers)
 ### Documentation and Communication
 write cleancode
 explain api endpoints
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### andre advice
+use minikube or kind if ur developing/testing/experimenting
+what would be the right tool for a certain task
+ig thats more of an architecture/technical issue but backend is more of a pragmatic concept
+
+order -> server architecture > concurrency (async sync) > security > http+api > databases > auth > caching > cloud
+
+read docs, code, refer to notes, make connections
