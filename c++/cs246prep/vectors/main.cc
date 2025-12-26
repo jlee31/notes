@@ -14,5 +14,19 @@
 
 int main() {
     std::cout << "Hello world" << std::endl;
+
+    std::vector<int> a(23);
+    std::vector<int> z = {0,1,2,3,4};
+
+    for (int i = 0; i < z.size(); i++) {
+        std::cout << z.at(i) << ", ";
+    }
+    // an iterator is a method that looks around the memory to find each element in a vector
+    // there are functions that tell you if you are at the end of a vector
+    // there is begin, end, rbegin, rend
+
+    // vectors sorting methods are very good
+    //
+
     return 0;
 }
