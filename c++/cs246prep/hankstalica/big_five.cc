@@ -1,9 +1,13 @@
 // rvalues = memory location without a name (ex a temp value)
 //          you can directly access this value and it gets assigned to something else
-// lvalues =
+// lvalues = named objects that exist
+
+
+// This goes over the rule of five
 
 #include <iostream>
-#include <utility>
+
+
 using namespace std;
 
 class Foo {
@@ -20,6 +24,7 @@ class Foo {
     // Copy Constructor
     // Foo f(g) where g is also a Foo
     // Foo f = g;
+    // This allows a deep copy of a constructor
     Foo(const Foo& rhs) {
         cout << "Copy constructor executed here" << endl;
         size = rhs.size;
@@ -57,7 +62,7 @@ class Foo {
         return temp;
     }
 
-    // Assignment Operator
+    // Copy Assignment Operator
     Foo& operator=(const Foo& rhs) {
         cout << "Copy Assignmnet Operator" << endl;
         if (this == &rhs) {
