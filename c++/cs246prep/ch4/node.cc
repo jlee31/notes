@@ -86,6 +86,23 @@ int main() {
     Node m{1, nullptr};
     n = (n2 = (m = plusOne(n2)));
 
+/*
+    1. copy constructor called 3 times when doing plusOne(n2)
+    2. move constructor called after returning plusOne(n2)
+    3. MAO called to move m = temp
+    4. copy constructor called twice to copy into n2 = m
+    5. CAO called to assign n2 onto m
+    6. Copy constructor called twice to copy n2 chain
+    7. CAO called to assign n onto n2
+
+    CAO is called on the head node, constructor is called for the rest of the chain
+    MAO just swaps the pointers
+    The compiler uses The move constructor  to move g into the temp return value
+
+
+*/
+
+
 
     // std::cout << "n: "; printNode(n);
     // std::cout << "n2: "; printNode(n2);
