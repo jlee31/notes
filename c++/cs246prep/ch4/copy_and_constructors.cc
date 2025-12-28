@@ -1,6 +1,5 @@
 #include <cstring>
 #include <iostream>
-#include <string>
 
 struct Vector {
     int x, y;
