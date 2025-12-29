@@ -62,7 +62,8 @@ Node plusOne(Node g) {
     for (Node *p=&g; p; p=p->next) {
         ++p->data;
     }
-    return g;
+    return g; // this is a local variable that is about to be destroyed
+    // it creates a return value object that will be passed back > calls the move constructor
 }
 
 void printNode(Node &n) {
@@ -99,16 +100,56 @@ int main() {
     MAO just swaps the pointers
     The compiler uses The move constructor  to move g into the temp return value
 
+    ** KEY DIFFERENCE **
+    Node x = something; // construction (copy/move operator)
+    x = something; // Assignment (copy/move assignment operator)
 
 */
-
-
 
     // std::cout << "n: "; printNode(n);
     // std::cout << "n2: "; printNode(n2);
     // std::cout << "m: "; printNode(m);
 
-
-
     return 0;
 }
+
+/*
+Node n2 = plusOne(n);
+
+```
+**Step 1:** Call `plusOne(n)`
+```
+
+Stack frame created:
+├─ Parameter g is copy-constructed from n
+└─ g = [1] -> [2] -> [3]
+```
+
+**Step 2:** Increment values
+```
+g = [2] -> [3] -> [4]
+```
+
+**Step 3:** `return g;` - **Move constructor called here!**
+```
+Move constructor creates temporary:
+├─ temporary.data = g.data        (2)
+├─ temporary.next = g.next        (steals [3]->[4])
+└─ g.next = nullptr               (leaves g safe)
+
+Result:
+├─ temporary: [2] -> [3] -> [4]
+└─ g: [2] -> nullptr
+```
+
+**Step 4:** `g` is destroyed
+```
+delete g.next;  // Deletes nothing (g.next is nullptr)
+Stack frame destroyed
+```
+
+**Step 5:** Initialize `n2` with the temporary
+```
+n2 = temporary;  // Often elided by compiler
+
+*/
