@@ -1,0 +1,16 @@
+02/04/26
+
+An issue that I encountered today was failing to git pull from my remote linux school server.
+
+The error I had was 
+`Permission denied (publickey,gssapi-with-mic,keyboard-interactive). fatal: Could not read from remote repository. Please make sure you have the correct access rights and the repository exists.`
+
+The error happeneed cuz git remote was pointing to linux, but it was suppose to authenticate with the new ubuntu server 24.04 machine. 
+
+Process:
+git pull > ssh linux... > no matching SSH config > no key offered > permission denied
+
+Solution:
+```
+git remote set-url origin [correct link]
+```
