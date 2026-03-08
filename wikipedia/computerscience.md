@@ -32,7 +32,21 @@ Defns:
 - Jacquard Loom - created the punched card system
 - 1865, Herman Hollerith created the tabulator - which uses punch cards to process statistical information
 - IBM is like a foundational company for the general creation of computers - for example how IBM founded the Watson Scientific Computing Lab at Colombia in NYC
-- 
-
 
 ## Etymology and Scope
+
+- Proposed first in 1956, but formally found in an article "Communications of the ACM".
+- It was also originally not related to computers, so it had the name Computing Science or Datalogy
+- Datalogy turned into Data Science - which focusses on data analysis, statistics and databases.
+- Edsger Dijkstra, states that "computer science is no more about computers than astronomy is about telescopes."
+- the study of computer hardware is usually considered part of computer engineering, while the study of commercial computer systems and their deployment is often called information technology or information systems.
+- Computer science research also often intersects other disciplines, such as cognitive science, linguistics, mathematics, physics, biology, Earth science, statistics, philosophy, and logic. (So Ill have to look into those fields too a little bit)
+
+### Famous Computer Scientists / Mathematicians
+
+- Kurt Godel
+- Alan Turing
+- John Von Neumann
+- Rozsa Peter
+- Stephen Kleene
+- Alonzo Church
