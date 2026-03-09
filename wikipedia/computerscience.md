@@ -50,3 +50,33 @@ Defns:
 - Rozsa Peter
 - Stephen Kleene
 - Alonzo Church
+
+### Epistemology of computer science
+
+- CS is considered a empirical science (systematic approach to knowledge that relies on direct observation, experimentation, and measurable evidence to understand the natural world) because it evaluates the correctness of programs
+
+### Paradigms of CS
+
+- Functional programming - uses mathematical functions
+- Imperative programming - statements to change the object state
+- Object oriented programming - objects that have methods and datafields
+- Service oriented programming - services
+
+## Fields in CS
+
+- Theory of computation - tryign to see what can be automated and what resources are needed to perform those computations
+- Information and Coding Theory - quantification of information
+- Data Structures and Algorithms
+- CV and Visualization
+- Image and Sound Processing
+- Computational science, finance and engineering
+- Software eng
+- AI
+
+## Computer Systems 
+
+- Computer architecture and microarchitecture
+- Concurrent, parallel and distributed systems
+- Computer networks
+- Computer security and crpytography
+- Databases and data mining
