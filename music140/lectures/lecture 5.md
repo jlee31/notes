@@ -36,7 +36,7 @@ STATS:
 - most important difference: the guitar
 - Elvis: guitar owner > quite good at it > did not always have a guitar (almost used as a prop) > despite being good at playing the guitar > he was first and foremost a singer
 - Chuck Berry: he is ALWAYS holding a guitar
-	- His main goal: **to be rich**
+	- His main goal: to be rich
 	- When he was younger, he did illegal things but turned around
 	- The most self-conscious 
 		- Since he wants to be a pop star / rich, he thinks about everything he does
@@ -58,10 +58,10 @@ STATS:
 		- They told Chuck that he needs to write the song to get all the money
 		- Chuck rewrites the song from 
 
-**"Ida Red" by Bob Wills and the Texas Playboys (1938)**
+"Ida Red" by Bob Wills and the Texas Playboys (1938)
 TO
 
-**Maybellene - Chuck Berry - 1955**
+Maybellene - Chuck Berry - 1955
 
 - The name of the young woman in the song he writes is from a makeup bag
 - every chuck berry song has a guitar solo
@@ -82,7 +82,7 @@ TO
 	- it speaks to that fact that the new style of music was a symbol of youth cukture
 	- it was a symbol of young people having something for themselves and not being like their pairs (i.e tin pan alley sound)
 
-**Johnny B. Goode (1958)**
+Johnny B. Goode (1958)
 - #2 R&B / #8 Pop
 - Guitar solo at the start
 - Lyrics are easy to understand and talks about skipping school (*text heavy narrative*) - lots of words
@@ -113,10 +113,10 @@ TO
 	- he was not a nice person
 	- In his autobiography ... 
 
-“Listening to Nat Cole prompted me to sing sentimental songs with **distinct**  
-**diction**. The songs of Muddy Waters impelled me to deliver the **down-home blues**  
+“Listening to Nat Cole prompted me to sing sentimental songs with distinct  
+diction. The songs of Muddy Waters impelled me to deliver the down-home blues  
 in the language they came from. When I played hillbilly songs, I stressed my  
-**diction so that it was harder and whiter**. All in all, it was my intention to hold both
+diction so that it was harder and whiter. All in all, it was my intention to hold both
 the black and the white clientele by voicing the different kinds of songs in their  
 customary tongues.” (Chuck Berry)  
 
@@ -175,9 +175,9 @@ write their own songs
 ### Racism:
 - Reaction against the perceived integration of youth.  
 
-- Birth of Rock and Roll coincides with emergence of **Civil Rights Movement**  
+- Birth of Rock and Roll coincides with emergence of Civil Rights Movement  
 
-- **May 1954**. Brown vs. The Board Of Education  
+- May 1954. Brown vs. The Board Of Education  
 	- Stated that segregated schools went against the US constitution
 	- A month before Elvis Presley goes into Sun records 
 	- 1957: The Little Rock Nine - the first black students to go to a white school
@@ -191,7 +191,7 @@ write their own songs
 	- And she says no, she is following the law
 	- Bus driver yells at Rosa to move 
 	- Rosa gets arrested for disturbing the peace
-	- Triggers the **Montgomery Bus Boycott**
+	- Triggers the Montgomery Bus Boycott
 		- No-one took the bus
 
 - Freedom Riders / Lunch Counter Sit-ins  
@@ -222,7 +222,7 @@ write their own songs
 	- Jerry Lee Lewis – May ’58 – Marriage to 13-year-old cousin becomes public
 		- "A rough diamond"
 		- Played the piano 
-		- Made **Great Balls of Fire  - Jerry Law Lewis**
+		- Made Great Balls of Fire  - Jerry Law Lewis
 			- Song about literal great balls of fire
 		- Came from the south, poor rural south
 		- Married to his 13 year old cousin, it was also not his first marriage
@@ -233,7 +233,7 @@ write their own songs
 		- Came from a deeply Christian family
 		- Plane engine exploded, he prayed and became a priest and left rock and roll
 	- Buddy Holly – Dies in a plane crash, February ’59 – along with Ritchie Valens and “The Big Bopper” (JP Richardson)
-		- **Peggy Sue - Buddy Holly - 1956**
+		- Peggy Sue - Buddy Holly - 1956
 		- Joins DECA
 		- leaves DECA and joined an independent record and becomes a star
 		- Goes on a tour with other artists 

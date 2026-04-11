@@ -6,18 +6,18 @@
 	- arrival of the Beatles (Feb 1964)
 - Major labels realize that rock and roll is not going away
 	- They look for sub-genres of music that appeal to teenagers but still follow the "Division of Labour" system
-	- It's called **The Dance Craze**
-	- **The Twist - Chubby Checker**
+	- It's called The Dance Craze
+	- The Twist - Chubby Checker
 		- Written by Hank Ballard
 		- Lots of background singing + Professional studio band
-	- **The Locomotion - Little Eva (Goffin, Carole King) 1962**
+	- The Locomotion - Little Eva (Goffin, Carole King) 1962
 		- Lots of background singing in this one 
 		- Considered the OG using background singing
 		- Carole King was a successful songwriter before turning into a major singing star
 		- Eva Boyd - the singer here was Carole King's babysitter
 - Teen Idols: Clean-cut, idealized boyfriends
 	- Appeals to mothers by major labels
-	- **Blue Velvet” Performed by Bobby Vinton (1963)**
+	- Blue Velvet” Performed by Bobby Vinton (1963)
 		- "Appropriate Idealized Romance Lyrics"
 		- Vocal Timbre
 		- Guitar
@@ -34,7 +34,7 @@
 	- Aldon Music - publishing song writing company by Don Kirshner / Al Nevins 
 	- Employed some of the best song writers (Ex gerry goffin and carole king) or Neil Diamond (< he made the song Sweet Caroline)
 	- Made songs as teams
-		- Made the song: **You've Lost that Lovin Feeling - Righteous **
+		- Made the song: You've Lost that Lovin Feeling - Righteous 
 	- This is the new TPA
 
 # Technology and Rise of the Producer
@@ -46,7 +46,7 @@
 	- Verner Von Brown - a rocket scientist in Nazi Germany
 		- Wanted to go to America 
 		- Thanks to these people USA won the space race
-		- Jack Mullin discovered the **Magnetophone**
+		- Jack Mullin discovered the Magnetophone
 		- Nazi germany created first physical tape to tape recording
 	- With the Magnetophone, he records a string classical recording and shows an audience that the Magnetophone plays music amazing
 - Bing Crosby
@@ -78,7 +78,7 @@
 		- In 4-8 tracks in Les Paul's time
 		- In the 1970s, the records can go up to 16-tracks
 
-	- **Sitting On Top of the World Les Paul with Mary Ford, 1953**
+	- Sitting On Top of the World Les Paul with Mary Ford, 1953
 		- Les Paul does all the instruments
 		- Mary Ford does all the vocals
 		- uses multitrack recording
@@ -107,12 +107,12 @@ Job:
 	- He would just put a bunch of instruments together
 	- Once all the instruments recorded, he would record the vocals
 
-	- **Be My Baby” The Ronettes, 1963 (Barry, Greenwich, Spector)**
+	- Be My Baby” The Ronettes, 1963 (Barry, Greenwich, Spector)
 		- Girl groups & Boybands
 			- everyone is a vocalists and choreographies
 			- they become popular in cycles 
 		- Tons of layering in this song
-		- Final song structure: (AABA, 12 bar blues, **verse/chorus** )
+		- Final song structure: (AABA, 12 bar blues, verse/chorus )
 			- Verse/Chorus: Much more dominant
 				- Verse: Same music different words 
 				- Chorus: Same music same words may also include song title, and increase in intensity

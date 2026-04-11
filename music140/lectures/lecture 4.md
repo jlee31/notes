@@ -5,23 +5,23 @@ jukebox
 Top 40 radio came from top 40 songs that would be played the most
 
 ##### Cover Versions
-- **Crossover hits - chart compilation**
+- Crossover hits - chart compilation
 - when radio stations start playing the most popular of Pop, R&B, Counry&Western 
 	- certain artists become in the top five in different catagories 
 	- some people were not happy that their white kids were listening to race music
 	- the growing influence of Black culture leads to 'Oral Panic' among racist white communities
 
-**Cover Versions** - 195401956 - "white" versions of "black records"
-- **Tutti Frutti** originall made by Little Richard (Penniman (Little Richard), LaBoistrie, 1955)
+Cover Versions - 195401956 - "white" versions of "black records"
+- Tutti Frutti originall made by Little Richard (Penniman (Little Richard), LaBoistrie, 1955)
 	- released on Specialty Records + Lyrics revised by Dorothy LaBostrie*
 	- It was a crossover hit: #2 on R&B and #17 on Pop
 		- There was more money in the white / Pop market
 	- Stop-time used in the song
 	- Modified 12 bar blues
-- **Tutti Frutti - Pat Boone - (Penniman, LaBostrie, 1956)**
+- Tutti Frutti - Pat Boone - (Penniman, LaBostrie, 1956)
 	- Makes a cover of Tutti Frutti
 	- No R&R and #10 in Pop
-- **Sh-Boom**
+- Sh-Boom
 	- originally made by The Chords - independent record: June 1954, Cat Records
 	- Cover: By the crew cuts
 	- Difference in form
@@ -52,7 +52,7 @@ Top 40 radio came from top 40 songs that would be played the most
 	- one of the first to emerge into this style
 	- born in 1925 (THIS WILL BE ON THE TEST)
 	- begins recording cover versions of R&B songs
-- **Rock Around the Clock - Bill Haley and the Comets 1954, Freedman / Myers**
+- Rock Around the Clock - Bill Haley and the Comets 1954, Freedman / Myers
 	- uses 12 bar blues
 	- recorded in 1954
 	- uses guitar/voice/ up tempo / quick (for fast dancing)
@@ -64,7 +64,7 @@ Top 40 radio came from top 40 songs that would be played the most
 - Teenagers are the primary audience
 	- They wanted to listen to other teenagers
 	- the issue for Bill Haley, he was too old, so he was replaced by a new generation of singers
-	- That new person is **Elvis Presley 1935-1977**
+	- That new person is Elvis Presley 1935-1977
 
 # Elvis Presley
 - Sam Philips - owner of a small record company in Memphis Tennessee - Sun Records
@@ -86,10 +86,10 @@ Top 40 radio came from top 40 songs that would be played the most
 					- called up Bill Black (Bass)
 					- does not call up a drummer
 						- Sam made Elvis sing Country and Western music because he was white 
-					- while they were taking a break, Elvis starts singing a R&B song called **July 1954 "Thats alright Mamma** 
+					- while they were taking a break, Elvis starts singing a R&B song called July 1954 "Thats alright Mamma 
 						- most early version is sung by Blind Lemon Jefferson in late 1920s
 						- but when he heard the R&B, they work on a new song
-							- **Elvis Presley "Thats alright Mamma" (Arthur Crudup)**
+							- Elvis Presley "Thats alright Mamma" (Arthur Crudup)
 - sends recording to Dewey Philips
 	- plays the song on the radio
 	- song immediately blows up
@@ -97,7 +97,7 @@ Top 40 radio came from top 40 songs that would be played the most
 	- later at an interview, the school system was still segregated, and he went to the white school
 		- but the people thought the person who sang the song was a african american
 		- he shocks everyone by telling everyone he is white
-	- second song: **Blue Moon of Kentucky - Bill Monroe, 1946 - Elvis Presley sings it this time** he sang it in 1954
+	- second song: Blue Moon of Kentucky - Bill Monroe, 1946 - Elvis Presley sings it this time he sang it in 1954
 	- Elvis Presley doesn't write the song, he just sings the songs (not a composer)
 		- Sam comes to speak at the end of the song
 			- The bars are different
@@ -121,7 +121,7 @@ Top 40 radio came from top 40 songs that would be played the most
 	- he makes 6 records - 12 songs - all covers
 	- one side is rhythm and blues
 	- other side is country and western
-	- Elvis Presley style - **Rockabilly** a blend of Rock and Roll with Hillbilly
+	- Elvis Presley style - Rockabilly a blend of Rock and Roll with Hillbilly
 	- Nickname: Hillbilly Cat
 	- he becomes a regional star 
 		- has some national success in the country charts
@@ -133,10 +133,10 @@ Top 40 radio came from top 40 songs that would be played the most
 		- in 1956, Tom Parker puts Elvis in national TV 11 times
 		- in 1956, everyone knows who Elvis is 
 
-**Heartbreak Hotel” April-May ‘56** 
+Heartbreak Hotel” April-May ‘56 
 	- #1 in pop
 	- #5 in R&B
-**“Hound Dog,” “Don’t Be Cruel,” “Love Me Tender” August to December ’55"** 
+“Hound Dog,” “Don’t Be Cruel,” “Love Me Tender” August to December ’55" 
 	- “Hound Dog” and “Don’t Be Cruel” both chart #1 on pop/country/R&B (for like one week at the same time)
 	- Hound Dog: A song about an affair
 

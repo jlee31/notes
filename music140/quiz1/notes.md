@@ -261,7 +261,7 @@ EXAMPLE: Uncle Dave Macon and the Fruit Jar Drinkers: “Carve that Possum” (1
 - Similar instruments to blue moon of Kentucky, instruments common in rural areas
     - Acoustic guitar, mandolin, fiddle, banjo
         - Banjo was western African but has jumped cultures to be in hillbilly
-- Vocal timber, resonate in the nose, emotional distance (**quiz question**)
+- Vocal timber, resonate in the nose, emotional distance (quiz question)
 #### Race
 EXAMPLE: Carr and Blackwell “How Long Blues” (1928)
 - One of the first recordings targeted at black audiences
@@ -283,8 +283,8 @@ https://en.wikipedia.org/wiki/Image_dissector
 - Radio networks realised there would be more money to be made in T.V as the ads would be more effective
 - As they sold their radio licenses, they began to go back to private local stations
     - Originally radio played a lot of soap operas for housewives to listen to, but these moved to TV
-        - Note about the origins of the name ***
-    - Radio stations start playing **records**
+        - Note about the origins of the name *
+    - Radio stations start playing records
     - Radio becomes about music
 
 Memphis - WDIA
@@ -292,7 +292,7 @@ Memphis - WDIA
 - No advertisers came in
 - Drove a car around Memphis to see where there signal was strongest, discovered it was strongest in black communities
 - Started playing race records
-- Final step in spreading race music to a wider audience (**broad**casting)
+- Final step in spreading race music to a wider audience (broadcasting)
 - Remark: Elvis as a young boy was captivated by WDIA, happened to live close enough to tune in 
 These early black appeal radio stations were a way of signalling that a business welcomed black customers
 
@@ -328,7 +328,7 @@ EXAMPLE: Most popular song of 1953 - Patti Page: “(How Much Is) That Doggie in
     - see jump blues and gospel below
 ### Jump Blues
 - Origins of Jazz is black culture but falls a bit outside of what we'll cover
-- **Faster** than country blues, but same feel (the jump part), faster dancing
+- Faster than country blues, but same feel (the jump part), faster dancing
 
 EXAMPLE: Good Rockin’ Tonight (1948, Wynonie Harris)
 - Saxophone solo - self consciousness
